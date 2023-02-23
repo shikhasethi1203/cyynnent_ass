@@ -1,0 +1,47 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.appHeader{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height:95px;
+  max-width: 1600px ;
+}
+
+.headerLeft{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.headerRight{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+ 
+}
+
+.headerResources{
+  display: flex;
+  gap: 6px;
+  font-size: 20px;
+}
+
+.headerContactUs{
+  display: flex;
+  gap: 6px;
+  font-size: 20px;
+}
+
+.headerSignIn{
+  display: flex;
+  gap: 6px;
+  font-size: 20px;
+  
+}

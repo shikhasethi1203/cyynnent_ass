@@ -1,0 +1,98 @@
+.products_del {
+  width: 100%;
+  height: 494px;
+  background: var(--light-gray-background) 0% 0% no-repeat padding-box;
+  background: #fafafa 0% 0% no-repeat padding-box;
+  border: 1px solid #dedede;
+  border-radius: 6px;
+  opacity: 1;
+}
+.del_heading {
+  width: 237;
+  height: 23px;
+  margin: 10px;
+  padding-left: 21px;
+  font: normal normal bold 25px/50px Asap;
+  color: #333333;
+}
+
+.del_name {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5%;
+  margin-left: 22px;
+  width: 96%;
+  height: 48px;
+  background: #75787b 0% 0% no-repeat padding-box;
+  border-radius: 12px 12px 0px 0px;
+}
+
+.del_box {
+  width: 24px;
+  height: 24px;
+  margin-left: 20px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 2px 6px #00000029;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+}
+.del1_name {
+  
+  width: 24px;
+  height: 16px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.del2_name {
+  width: 149px;
+  height: 16px;
+  font-size: 20px;
+  color: var(--white-background);
+  text-align: left;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.del3_name {
+  width: 102px;
+  height: 16px;
+  font-size: 20px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+.del4_name {
+  margin-right: 100px;
+  width: 86px;
+  height: 16px;
+  font-size: 20px;
+  text-align: left;
+  color: #ffffff;
+}
+.del_headings {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 22px;
+  width: 96%;
+  height: 300px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+
+.del5_name {
+  width: 214px;
+  height: 18px;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-medium) var(--unnamed-font-size-16) /
+    var(--unnamed-line-spacing-20) var(--unnamed-font-family-asap);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--secondary-2);
+  font-size: 18px;
+  text-align: center;
+  font: normal normal medium 16px/20px Asap;
+  color: #00a28f;
+}
+
+

@@ -1,0 +1,21 @@
+.homePage{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1600px;
+    margin-right: auto;
+    margin-left: auto;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.homeInputProductDel{
+    width: 100%;
+    display: flex;
+    gap: 30px;
+}
+.homeButton{
+    width: 100%;
+    display: flex;
+    gap: 80%;
+}
